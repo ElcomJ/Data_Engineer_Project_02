@@ -15,9 +15,9 @@ deles.
 ![Roadmap](Images/Capture.PNG)
 
   - Realizar a criação dos sensores de aquisição de dados de
-  [Power_Factory](encurtador.com.br/tJQ14),
-  [Battery_Temperature](encurtador.com.br/uMQY3),
-  [Hydraulic_Pressure](encurtador.com.br/abMY4).
+  [Power_Factory](https://github.com/ElcomJ/Data_Engineer_Project_02/blob/master/Scripts/Power_Factory.ipynb),
+  [Battery_Temperature](https://github.com/ElcomJ/Data_Engineer_Project_02/blob/master/Scripts/Temperature.ipynb),
+  [Hydraulic_Pressure](https://github.com/ElcomJ/Data_Engineer_Project_02/blob/master/Scripts/Hydraulic_pressure.ipynb).
   - Criar o Kinesis Data Stream para receber os dados gerados.
   - Criar o Kinesis Data Firehouse para realizar a captura e o armazenamento desses dados no
     S3.
@@ -31,4 +31,4 @@ deles.
 ## Scripts de resolução:
 
 > Os scripts responsáveis pela geração dos dados de cada sensor podem ser encontrados aqui
-[**Scripts**](encurtador.com.br/agmtW).
+[**Scripts**](https://github.com/ElcomJ/Data_Engineer_Project_02/tree/master/Scripts).
